@@ -1,2 +1,3 @@
 # firstgithub-demo
-tis is first repository
+this is first repository
+author-ayush tiwari
